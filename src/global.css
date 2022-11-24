@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --body-text: Roboto;
+  --h2: Outfit;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --body-text-size: 20px;
+  --font-size-xl: 22px;
+  --h2-size: 57px;
+  --h1-main-heading-size: 78px;
+
+  /* Colors */
+  --button-2: #655adf;
+  --color-indigo-200: #13164d;
+  --color-white: #fff;
+  --button: #74b4b3;
+  --color-black: #000;
+
+  /* Paddings */
+  --padding-sm: 22px;
+  --padding-md: 74px;
+
+  /* border radiuses */
+  --br-sm: 20px;
+  --br-md: 83px;
+}
