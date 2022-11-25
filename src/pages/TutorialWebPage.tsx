@@ -61,7 +61,7 @@ const TutorialWebPage: FunctionComponent = () => {
           <img
             className={styles.maskGroupIcon}
             alt=""
-            src="../mask-group@2x.png"
+            src={require('./images/mask-group@2x.png')}
           />
           <div className={styles.oliviaColeDiv}>olivia cole</div>
           <div
@@ -73,7 +73,7 @@ const TutorialWebPage: FunctionComponent = () => {
           <img
             className={styles.maskGroupIcon}
             alt=""
-            src="../mask-group1@2x.png"
+            src={require('./images/mask-group1@2x.png')}
           />
           <div className={styles.oliviaColeDiv}>evan White</div>
           <div
@@ -85,7 +85,7 @@ const TutorialWebPage: FunctionComponent = () => {
           <img
             className={styles.maskGroupIcon}
             alt=""
-            src="../mask-group2@2x.png"
+            src={require('./images/mask-group2@2x.png')}
           />
           <div className={styles.oliviaColeDiv}>Jessica Page</div>
           <div
@@ -111,7 +111,7 @@ const TutorialWebPage: FunctionComponent = () => {
           <img
             className={styles.objectOther17Icon}
             alt=""
-            src="../objectother-17@2x.png"
+            src={require('./images/objectother-17@2x.png')}
           />
         </div>
       </div>
@@ -120,14 +120,14 @@ const TutorialWebPage: FunctionComponent = () => {
           <img
             className={styles.objectOther17Icon}
             alt=""
-            src="../objectother-18@2x.png"
+            src={require('./images/objectother-18@2x.png')}
           />
         </div>
         <div className={styles.buttonDiv3}>
           <div className={styles.submitDiv}>View our pricing</div>
         </div>
         <div className={styles.useOurBuiltInAnalyticsDas}>
-          Use our built-in analytics dashboard to pull valuable insights and
+          Use your built-in analytics dashboard to pull valuable insights and
           monitor the value of your Krypto portfolio over time.
         </div>
         <b className={styles.builtInAnalyticsToTrackYo}>
@@ -143,17 +143,17 @@ const TutorialWebPage: FunctionComponent = () => {
       <div className={styles.referenceDiv}>
         <div className={styles.featuredOnDiv}>Featured on</div>
         <div className={styles.rectangleDiv6} />
-        <img className={styles.image5Icon} alt="" src="https://github.com/YongJian-YJ/reactProject/blob/f4f83872087553e2d7f387967abdf821d6069dbb/public/image-5@2x.png" />
-        <img className={styles.image6Icon} alt="" src="https://github.com/YongJian-YJ/reactProject/blob/f4f83872087553e2d7f387967abdf821d6069dbb/public/image-6@2x.png" />
-        <img className={styles.image7Icon} alt="" src="https://github.com/YongJian-YJ/reactProject/blob/f4f83872087553e2d7f387967abdf821d6069dbb/public/image-7@2x.png" />
-        <img className={styles.image8Icon} alt="" src="https://github.com/YongJian-YJ/reactProject/blob/f4f83872087553e2d7f387967abdf821d6069dbb/public/image-8@2x.png" />
+        <img className={styles.image5Icon} alt="" src={require('./images/image-5@2x.png')} />
+        <img className={styles.image6Icon} alt="" src={require('./images/image-6@2x.png')} />
+        <img className={styles.image7Icon} alt="" src={require('./images/image-7@2x.png')} />
+        <img className={styles.image8Icon} alt="" src={require('./images/image-8@2x.png')} />
       </div>
       <div className={styles.heroDiv}>
         <div className={styles.objectOther07Div}>
           <img
             className={styles.objectOther07Icon}
             alt=""
-            src="../objectother-07@2x.png"
+            src={require('./images/objectother-07@2x.png')}
           />
         </div>
         <b className={styles.discoverAndCollectRareNFTs}>
