@@ -47,6 +47,7 @@ function App() {
   return (
     <Routes>
       <Route path="/" element={<TutorialWebPage />} />
+      <Route path="*" element={<TutorialWebPage />} />
     </Routes>
   );
 }
