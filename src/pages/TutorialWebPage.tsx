@@ -143,10 +143,10 @@ const TutorialWebPage: FunctionComponent = () => {
       <div className={styles.referenceDiv}>
         <div className={styles.featuredOnDiv}>Featured on</div>
         <div className={styles.rectangleDiv6} />
-        <img className={styles.image5Icon} alt="" src="../image-5@2x.png" />
-        <img className={styles.image6Icon} alt="" src="../image-6@2x.png" />
-        <img className={styles.image7Icon} alt="" src="../image-7@2x.png" />
-        <img className={styles.image8Icon} alt="" src="../image-8@2x.png" />
+        <img className={styles.image5Icon} alt="" src="https://github.com/YongJian-YJ/reactProject/blob/f4f83872087553e2d7f387967abdf821d6069dbb/public/image-5@2x.png" />
+        <img className={styles.image6Icon} alt="" src="https://github.com/YongJian-YJ/reactProject/blob/f4f83872087553e2d7f387967abdf821d6069dbb/public/image-6@2x.png" />
+        <img className={styles.image7Icon} alt="" src="https://github.com/YongJian-YJ/reactProject/blob/f4f83872087553e2d7f387967abdf821d6069dbb/public/image-7@2x.png" />
+        <img className={styles.image8Icon} alt="" src="https://github.com/YongJian-YJ/reactProject/blob/f4f83872087553e2d7f387967abdf821d6069dbb/public/image-8@2x.png" />
       </div>
       <div className={styles.heroDiv}>
         <div className={styles.objectOther07Div}>
