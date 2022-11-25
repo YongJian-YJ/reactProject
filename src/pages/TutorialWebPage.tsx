@@ -139,7 +139,7 @@ const TutorialWebPage: FunctionComponent = () => {
         </b>
         <div className={styles.aNALYTICSDiv}>ANALYTICS</div>
       </div>
-      <img className={styles.bGCirclesIcon} alt="" src="../bg-circles.svg" />
+
       <div className={styles.referenceDiv}>
         <div className={styles.featuredOnDiv}>Featured on</div>
         <div className={styles.rectangleDiv6} />

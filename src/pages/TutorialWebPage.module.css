@@ -111,7 +111,7 @@
 }
 .rectangleDiv1 {
   top: 0;
-  left: 193px;
+  left: 430px;
   border-radius: var(--br-sm);
   width: 1065px;
   height: 379px;
@@ -125,7 +125,7 @@
 .areYouReady {
   position: absolute;
   top: 7.99%;
-  left: 43.53%;
+  left: 60.53%;
   letter-spacing: 0.1em;
   line-height: 27.5px;
   text-transform: uppercase;
@@ -136,7 +136,7 @@
 .beAPartOfTheNextBigThin {
   position: absolute;
   top: 17.97%;
-  left: 35.09%;
+  left: 53.09%;
   font-size: var(--h2-size);
   line-height: 100%;
   text-transform: capitalize;
@@ -146,7 +146,7 @@
 .buttonDiv1 {
   position: absolute;
   top: 272px;
-  left: calc(50% - 146.5px);
+  left: calc(67% - 146.5px);
   border-radius: var(--br-md);
   background-color: var(--color-black);
   display: flex;
