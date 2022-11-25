@@ -1,15 +1,22 @@
 {
   "files": {
     "main.css": "/reactProject/static/css/main.5bcb77bf.css",
-    "main.js": "/reactProject/static/js/main.395e4e4a.js",
+    "main.js": "/reactProject/static/js/main.91cb6dea.js",
     "static/js/787.73a4972f.chunk.js": "/reactProject/static/js/787.73a4972f.chunk.js",
+    "static/media/objectother-07@2x.png": "/reactProject/static/media/objectother-07@2x.236a9025ace9f957bd9f.png",
+    "static/media/objectother-17@2x.png": "/reactProject/static/media/objectother-17@2x.9b8f77df088bfd242c81.png",
+    "static/media/objectother-18@2x.png": "/reactProject/static/media/objectother-18@2x.b179852a733f1e6df23b.png",
+    "static/media/mask-group1@2x.png": "/reactProject/static/media/mask-group1@2x.622dfc0efb9be95084d2.png",
+    "static/media/mask-group@2x.png": "/reactProject/static/media/mask-group@2x.7e5fcdbeda75c902eb1c.png",
+    "static/media/mask-group2@2x.png": "/reactProject/static/media/mask-group2@2x.c059c7dc4a703083b3a8.png",
+    "static/media/image-5@2x.png": "/reactProject/static/media/image-5@2x.ba3350fc71bcdc83f4ba.png",
     "index.html": "/reactProject/index.html",
     "main.5bcb77bf.css.map": "/reactProject/static/css/main.5bcb77bf.css.map",
-    "main.395e4e4a.js.map": "/reactProject/static/js/main.395e4e4a.js.map",
+    "main.91cb6dea.js.map": "/reactProject/static/js/main.91cb6dea.js.map",
     "787.73a4972f.chunk.js.map": "/reactProject/static/js/787.73a4972f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5bcb77bf.css",
-    "static/js/main.395e4e4a.js"
+    "static/js/main.91cb6dea.js"
   ]
 }
