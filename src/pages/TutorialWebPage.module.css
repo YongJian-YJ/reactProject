@@ -7,12 +7,12 @@
 }
 .kryptoDiv {
   top: 3267px;
-  left: 188px;
+  left: 300px;
   text-transform: uppercase;
 }
 .joinOurNewsletter {
   top: 3310px;
-  left: 900px;
+  left: 1200px;
 }
 .homeP {
   margin-block-start: 0;
@@ -111,7 +111,7 @@
 }
 .rectangleDiv1 {
   top: 0;
-  left: 430px;
+  left: 330px;
   border-radius: var(--br-sm);
   width: 1065px;
   height: 379px;
@@ -125,7 +125,7 @@
 .areYouReady {
   position: absolute;
   top: 7.99%;
-  left: 60.53%;
+  left: 50.53%;
   letter-spacing: 0.1em;
   line-height: 27.5px;
   text-transform: uppercase;
@@ -136,7 +136,7 @@
 .beAPartOfTheNextBigThin {
   position: absolute;
   top: 17.97%;
-  left: 53.09%;
+  left: 35.09%;
   font-size: var(--h2-size);
   line-height: 100%;
   text-transform: capitalize;
@@ -146,7 +146,7 @@
 .buttonDiv1 {
   position: absolute;
   top: 272px;
-  left: calc(67% - 146.5px);
+  left: calc(58% - 146.5px);
   border-radius: var(--br-md);
   background-color: var(--color-black);
   display: flex;
@@ -371,7 +371,7 @@
 }
 .objectOther18Div {
   position: absolute;
-  top: 0;
+  top: 100px;
   left: calc(50% - 534px);
   width: 536px;
   height: 536px;
@@ -522,8 +522,8 @@
   display: inline-block;
 }
 .discoverAndCollectRareNFTs {
-  top: 81px;
-  font-size: var(--h1-main-heading-size);
+  top: 21px;
+  font-size: 60px;
   line-height: 100%;
   width: 435px;
   height: 231px;
@@ -545,8 +545,9 @@
 }
 .buyNftsDiv {
   position: absolute;
-  top: 23px;
-  left: calc(50% - 53.5px);
+  font-size: 15px;
+  top: 20px;
+  left: calc(40% - 53.5px);
   letter-spacing: 0.1em;
   line-height: 27.5px;
   text-transform: uppercase;
@@ -569,9 +570,10 @@
   box-sizing: border-box;
 }
 .sellNftsDiv {
+  font-size: 20px;
   position: absolute;
-  top: 18.58px;
-  left: calc(50% - 57.5px);
+  top: 20.58px;
+  left: calc(43% - 57.5px);
   letter-spacing: 0.1em;
   line-height: 27.5px;
   text-transform: uppercase;
